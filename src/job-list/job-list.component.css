@@ -1,0 +1,31 @@
+.job-listing {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.job-title {
+  font-size: 18px;
+  margin: 0;
+}
+
+.job-details {
+  font-size: 14px;
+  margin: 0;
+  color: #777;
+}
+
+.load-more-button {
+  margin: 20px;
+  padding: 10px 20px;
+  background-color: #f58d16;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.load-more-button:hover {
+  background-color: #0056b3;
+}
